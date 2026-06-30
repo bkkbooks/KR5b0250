@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5b0250/ZTDZ/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5b0250_SJB_000-100139a, image: sjb/10/100139a.png}
+metadata:
+  title: 靈寶玉鑑
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+  date: '2015-08-29 00:14:52.629852'
+  source:
+    repository: kanripo
+    path: KR5b0250/KR5b0250_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:6d8829dd7a3103eba262b5b91681df6b4ffe02bb2605a140905219d41fed5e79
